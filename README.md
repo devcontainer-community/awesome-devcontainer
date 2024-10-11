@@ -21,11 +21,11 @@
 
 ## Containers
 
-- [devcontainer-community/devcontainer-images](devcontainer.community images)
+- [devcontainer.community images](https://github.com/devcontainer-community/devcontainer-images)
 
 ## Features
 
-- [https://github.com/devcontainer-community/devcontainer-features](devcontainer.community features)
+- [devcontainer.community features](https://github.com/devcontainer-community/devcontainer-features)
 
 ## Tools and Services
 
