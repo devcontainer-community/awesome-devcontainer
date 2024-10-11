@@ -21,7 +21,7 @@
 
 ## Containers
 
-- [https://github.com/devcontainer-community/devcontainer-images](devcontainer.community images)
+- [devcontainer-community/devcontainer-images](devcontainer.community images)
 
 ## Features
 
