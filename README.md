@@ -1,4 +1,4 @@
-# Awesome VS Code Container Features, Tools, Containers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome VS Code Container Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of resources for using VS Code in Containers
 
