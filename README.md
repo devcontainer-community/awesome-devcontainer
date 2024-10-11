@@ -2,22 +2,18 @@
 
 > A curated list of resources for using VS Code in Containers
 
-- [VS Code Remote Development](https://code.visualstudio.com/docs/remote/remote-overview)
-- [Official list of containers](https://github.com/microsoft/vscode-dev-containers/tree/master/containers)
-- [Official list of Features](https://containers.dev/features)
-
-
 
 ## Official Documentation Quick Links
 
 - [VS Code Remote Development](https://code.visualstudio.com/docs/remote/remote-overview)
-- [Official list of containers](https://github.com/microsoft/vscode-dev-containers/tree/master/containers)
-- [Official list of Features](https://containers.dev/features)
+- [Official images repository](https://github.com/devcontainers/images)
+- [Official feature repository](https://github.com/devcontainers/features)
+- [Official list of (contrib) features](https://containers.dev/features)
 
 ### Specifications
 
 - [devcontainer.json reference](https://code.visualstudio.com/docs/remote/devcontainerjson-reference)
-- [devcontainer-feature.json reference](https://code.visualstudio.com/docs/remote/devcontainer-feature-json-reference)
+- [devcontainer-feature.json reference](https://containers.dev/implementors/features/#devcontainer-feature-json-properties)
 
 ## Articles
 
@@ -25,6 +21,11 @@
 
 ## Containers
 
+- [https://github.com/devcontainer-community/devcontainer-images](devcontainer.community images)
+
 ## Features
 
+- [https://github.com/devcontainer-community/devcontainer-features](devcontainer.community features)
+
 ## Tools and Services
+
