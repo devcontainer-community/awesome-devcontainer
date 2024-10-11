@@ -12,8 +12,8 @@
 
 ### Specifications
 
-- [devcontainer.json reference](https://code.visualstudio.com/docs/remote/devcontainerjson-reference)
-- [devcontainer-feature.json reference](https://containers.dev/implementors/features/#devcontainer-feature-json-properties)
+- [`devcontainer.json` reference](https://code.visualstudio.com/docs/remote/devcontainerjson-reference)
+- [`devcontainer-feature.json` reference](https://containers.dev/implementors/features/#devcontainer-feature-json-properties)
 
 ## Articles
 
