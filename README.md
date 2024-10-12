@@ -1,3 +1,20 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Awesome VS Code Container Resources *](#awesome-vs-code-container-resources-)
+  - [Official Documentation Quick Links](#official-documentation-quick-links)
+    - [Specifications](#specifications)
+  - [Articles](#articles)
+  - [Videos](#videos)
+  - [Containers](#containers)
+  - [Features](#features)
+    - [Authoring Features](#authoring-features)
+  - [Tools and Services](#tools-and-services)
+  - [Other tools for working with standadized development environments](#other-tools-for-working-with-standadized-development-environments)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Awesome VS Code Container Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of resources for using VS Code in Containers
