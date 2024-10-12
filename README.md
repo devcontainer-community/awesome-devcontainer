@@ -19,8 +19,8 @@
 
 ## Articles
 
-- [Dev Containers: Going further](https://microsoft.github.io/code-with-engineering-playbook/developer-experience/devcontainers-going-further/) - from Microsoft's Engineering Fundamentals Playbook.
-- [Use a Docker container as a development environment with Visual Studio Code](https://learn.microsoft.com/en-us/training/modules/use-docker-container-dev-env-vs-code/?WT.mc_id=devcloud-11496-cxa) - Official Microsoft tutorial
+- [Dev Containers: Going further](https://microsoft.github.io/code-with-engineering-playbook/developer-experience/devcontainers-going-further/) - From Microsoft's Engineering Fundamentals Playbook.
+- [Use a Docker container as a development environment with Visual Studio Code](https://learn.microsoft.com/en-us/training/modules/use-docker-container-dev-env-vs-code/?WT.mc_id=devcloud-11496-cxa) - Official Microsoft tutorial.
 
 ## Videos
 
