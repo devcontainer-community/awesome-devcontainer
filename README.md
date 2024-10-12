@@ -10,7 +10,7 @@
 - [Official images repository on Docker Hub](https://hub.docker.com/r/microsoft/vscode-devcontainers)
 - [Official feature repository](https://github.com/devcontainers/features)
 - [Official list of (contrib) features](https://containers.dev/features)
-- [Official feature quick start repository](https://github.com/devcontainers/feature-starter)
+- [Official feature quick start repository](https://github.com/devcontainers/ttps://github.com/devcontainers/feature-starter)
 
 ### Specifications
 
@@ -30,17 +30,17 @@
 
 ## Containers
 
-- [**devcontainer.community** images](https://github.com/devcontainer-community/devcontainer-images)
+- [devcontainer.community images](https://github.com/devcontainer-community/devcontainer-images)
 
 ## Features
 
-- [**devcontainer.community** features](https://github.com/devcontainer-community/devcontainer-features)
+- [devcontainer.community features](https://github.com/devcontainer-community/devcontainer-features)
 
 ### Authoring Features
 
 - [Official feature quick start repository](https://github.com/devcontainers/feature-starter)
 - [Devcontainer features test lib](https://github.com/devcontainers/cli/blob/HEAD/docs/features/test.md#dev-container-features-test-lib)
-- [**devcontainer.community** shell snippes for easy `install.sh` generation](https://github.com/devcontainer-community/shell-snippets)
+- [devcontainer.community shell snippes for easy `install.sh` generation](https://github.com/devcontainer-community/shell-snippets)
 
 ## Tools and Services
 
