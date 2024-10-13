@@ -65,7 +65,11 @@
 - [Unofficial devcontainer CLI in go](https://github.com/stuartleeks/devcontainer-cli)
 - [vscli](https://github.com/michidk/vscli) - Unofficial CLI for VS Code.
 - [tyedev](https://github.com/CodeMan99/tyedev) - A tool to generate `devcontainer.json` files for your projects.
+- [GitHub CodeSpaces](https://github.com/codespaces) - GitHub CodeSpaces
+- [devpod.sh](https://devpod.sh) - CodeSpaces but Open Source
 
 ## Other tools for working with standadized development environments
+
+- [devenv](https://devenv.sh) - Create Development environments based on Nix
 
 
