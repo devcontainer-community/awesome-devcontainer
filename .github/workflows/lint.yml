@@ -1,8 +1,14 @@
-name: CI
+name: Awesome_Lint
 on:
   workflow_dispatch:
   pull_request:
-    branches: [main]
+    branches:
+      - main
+      - master
+  push:
+    branches:
+      - main
+      - master
 jobs:
   Awesome_Lint:
     runs-on: ubuntu-latest
