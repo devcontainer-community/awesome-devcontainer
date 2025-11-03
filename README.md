@@ -47,10 +47,13 @@
 
 ## Containers
 
+- [Official Microsoft Devcontainer Images](https://github.com/devcontainers/images)
 - [devcontainer.community images](https://github.com/devcontainer-community/devcontainer-images)
+- [Devcontainer Images for Arch Linux](https://github.com/bartventer/devcontainer-images)
 
 ## Features
 
+- [Available Features](https://containers.dev/features)
 - [devcontainer.community features](https://github.com/devcontainer-community/devcontainer-features)
 
 ### Authoring Features
@@ -68,7 +71,7 @@
 - [GitHub CodeSpaces](https://github.com/codespaces) - GitHub CodeSpaces.
 - [devpod.sh](https://devpod.sh) - CodeSpaces but Open Source.
 
-## Other tools for working with standadized development environments
+## Other tools for working with standardized development environments
 
 - [devenv](https://devenv.sh) - Create Development environments based on Nix.
 
