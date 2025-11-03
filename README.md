@@ -17,6 +17,7 @@
   - [Authoring Features](#authoring-features)
 - [Tools and Services](#tools-and-services)
 - [Other tools for working with standardized development environments](#other-tools-for-working-with-standardized-development-environments)
+- [Developer Resources](#developer-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
