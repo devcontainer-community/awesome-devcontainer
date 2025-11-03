@@ -75,4 +75,8 @@
 
 - [devenv](https://devenv.sh) - Create Development environments based on Nix.
 
+## Developer Resources
+
+- [Official Feature Index (OCI)](https://github.com/orgs/devcontainers/packages/container/package/index)
+
 
